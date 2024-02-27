@@ -1,0 +1,10 @@
+
+---------------------------INSTRUCCIONES DE INSTALACIÓN Y VISUALIZACIÓN DEL PROYECTO----------------------------------------------
+
+1.Descargar el software tableau del siguiente enlace: https://www.tableau.com/products/desktop/download
+2.Una vez descargado e instalado, abrir el archivo "Proyecto_final.twb" ubicado en la carpeta "Producto"
+3.Visualizar los resultados separados en hojas de trabajo y dashboards
+4.Realizar el mismo proceso con el archivo "Proyecciones.twb". el cual muestra las proyecciones que se
+realizaron para el proyecto(esta en un archivo separado por la enorme cantidad de datos, lo cual hacia que el flujo sea muy lento)
+
+
